@@ -1,4 +1,4 @@
-## Olá, eu sou a Juliana Oliveira!  &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="15px">
+## Olá, eu sou a Juliana Miiller!  &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="15px">
 
 
 - 🔭 Cursando engenharia de software | ✨ Estudando Python pela Softex 
@@ -14,8 +14,8 @@
   
 ##
 ### 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juholv&show_icons=true&theme=omni&include_all_commits=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Juholv&layout=compact&langs_count=7&theme=omni)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julianamiiller&show_icons=true&theme=omni&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=julianamiiller&layout=compact&langs_count=7&theme=omni)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
