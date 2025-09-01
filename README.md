@@ -2,6 +2,7 @@
 
 - 🔭 Cursando engenharia de software  
 - 🌱 Estudando Python pela softex
+##
 
 ### 📊 Estatísticas
 
@@ -22,3 +23,9 @@
   />
 
 </p>
+
+---
+
+<div align="center">
+  <p>✨ Obrigada por visitar meu perfil! ✨</p>
+</div>
