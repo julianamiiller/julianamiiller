@@ -24,8 +24,3 @@
 
 </p>
 
----
-
-<div align="center">
-  <p>✨ Obrigada por visitar meu perfil! ✨</p>
-</div>
