@@ -1,4 +1,4 @@
-## Olá, eu sou a Juliana Miiller!  &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="15px">
+## Olá, eu sou a Juliana Miiller!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="15px">
 - 🔭 Cursando engenharia de software  
 - 🌱 Estudando Python pela softex
 ##
