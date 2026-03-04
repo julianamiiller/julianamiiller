@@ -5,7 +5,7 @@
 ##
 
 ### 📊 Estatísticas do GitHub
-![](https://github-readme-stats.vercel.app/api?username=JohnnyCleto&theme=omni&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=JohnnyCleto&theme=omni)<br/>
+![](https://github-readme-stats.vercel.app/api?username=julianamiiller&theme=omni&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=julianamiiller&theme=omni)<br/>
 
 ##
