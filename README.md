@@ -1,6 +1,6 @@
 ## Olá, eu sou a Juliana Miiller!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="15px">
 - 🔭 Cursando engenharia de software  
-- 🌱 Estudando Python pela softex (concluído)
+- 🌱 Estudando Python e Django pela softex (concluído)
 - 💎 Atualmente estudando Cibersegurança pela Hackers do bem - softex
 ##
 
