@@ -1,20 +1,20 @@
-## Olá, eu sou a Juliana Miiller!&nbsp;<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="15px">
+## Olá, eu sou a Juliana Miiller!&nbsp;<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="18px">
 
 <div align="center">
-  <!-- Animação de digitação personalizada -->
+  <!-- Animação de digitação corrigida (sem os emojis no meio do link) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Desenvolvedora+Fullstack+👩🏽‍💻;Transformando+Ideias+em+Código;Apaixonada+por+Tecnologia+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Desenvolvedora+Fullstack;Transformando+Ideias+em+Codigo;Mobile,+Web+e+Backend" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 ## 👩🏽‍💻 Sobre Mim
-Sou uma desenvolvedora apaixonada por criar soluções elegantes, eficientes e de grande impacto. Acredito no poder da tecnologia para transformar realidades e adoro trazer um toque de criatividade, organização e inovação para cada projeto em que me envolvo.
+Desenvolvedora de Software apaixonada por criar soluções completas, desde a arquitetura do banco de dados até a experiência final do usuário na tela do celular ou computador. Adoro transformar problemas complexos em sistemas dinâmicos e eficientes.
 
-- 🚀 Atualmente desenvolvendo a **Plataforma Maricá** e **Sistemas de Etiquetas**.
-- 🧠 Focada no ecossistema: **Python, Django, Docker e Frontend Moderno**.
-- ☕ Movida a desafios, código limpo e um bom café.
+- 🚀 Desenvolvendo ativamente a **Plataforma Maricá**, **Sistemas de Etiquetas** e o **Projeto Somar**.
+- 🧠 Experiência em desenvolvimento Mobile e Web, construindo APIs robustas.
+- ☕ Focada em código limpo, inovação e movida a muito café.
 
 ---
 
@@ -22,8 +22,8 @@ Sou uma desenvolvedora apaixonada por criar soluções elegantes, eficientes e d
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- Ícones das tecnologias -->
-    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,docker,git,github,postgres,linux,bash&theme=dark&perline=11" />
+    <!-- Adicionei Node, TypeScript, React (para Native/Expo), Bancos de Dados e tudo o que usamos! -->
+    <img src="https://skillicons.dev/icons?i=py,django,js,ts,html,css,react,nodejs,docker,postgres,mysql,git,github,linux,bash&theme=dark&perline=8" />
   </a>
 </div>
 
@@ -31,10 +31,8 @@ Sou uma desenvolvedora apaixonada por criar soluções elegantes, eficientes e d
 
 ---
 
-## 📊 Analytics & Contribuições
-
 <div align="center">
-  <!-- O seu gráfico personalizado do Pacman! -->
+  <!-- O seu gráfico personalizado do Pacman no tamanho original! -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julianamiiller/julianamiiller/pacman-output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julianamiiller/julianamiiller/pacman-output/pacman-contribution-graph.svg">
@@ -42,21 +40,31 @@ Sou uma desenvolvedora apaixonada por criar soluções elegantes, eficientes e d
   </picture>
 </div>
 
+## 🌌 GitHub Analytics
+
+<div align="center">
+  <!-- Gráfico de Atividade em Onda com as Cores Oficiais do Tema OMNI -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=julianamiiller&bg_color=191622&color=E1E1E6&line=FF79C6&point=FFFFFF&area=true&hide_border=true&title_color=E1E1E6" width="80%" alt="Activity Graph" />
+</div>
+
 <br/>
 
 <div align="center">
-  <!-- Status Gerais puxando os dados reais da 'julianamiiller' -->
-  <img src="https://github-readme-stats.vercel.app/api?username=julianamiiller&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F78C6C" width="48%" />
+  <!-- Stats Card (Agora com line_height=28 para esticar e igualar a altura do da direita!) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=julianamiiller&show_icons=true&theme=omni&hide_border=true&line_height=28" width="48%" />
   
-  <!-- Linguagens mais utilizadas puxando os dados reais da 'julianamiiller' -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianamiiller&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F78C6C" width="48%" />
+  <!-- Linguagens Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=julianamiiller&layout=compact&theme=omni&hide_border=true" width="48%" />
 </div>
+
+<br/>
 
 ---
 
 ## 🤝 Vamos Conectar?
 
 <div align="center">
+  <!-- Não esqueça de colocar seu e-mail e linkedin nos links abaixo! -->
   <a href="mailto:seu.email.aqui@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -68,6 +76,6 @@ Sou uma desenvolvedora apaixonada por criar soluções elegantes, eficientes e d
 <br/>
 
 <div align="center">
-  <!-- Rodapé com efeito dinâmico combinando com as cores -->
+  <!-- Rodapé Dinâmico -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
 </div>
