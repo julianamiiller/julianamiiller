@@ -29,9 +29,8 @@
         ☕<br><b>Mindset</b><br>Código Limpo e Inovação
       </td>
     </tr>
-  </table>
-  
-  <br><br>
+  </table> 
+  <br>
 
   <!-- Arsenal Tecnológico -->
   <h3>🛠️ Arsenal Tecnológico</h3>
@@ -42,9 +41,7 @@
   
 </div>
 
-<br><br>
-
----
+<br>
 
 
 ---
