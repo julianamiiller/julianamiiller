@@ -1,33 +1,51 @@
-## Olá, eu sou a Juliana Miiller!&nbsp;<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="18px">
-
 <div align="center">
-  <!-- Animação de digitação corrigida (sem os emojis no meio do link) -->
+  <h1>Olá, eu sou a Juliana Miiller! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="25px"></h1>
+  
+  <!-- Animação combinando com o tema Omni -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Desenvolvedora+Fullstack;Transformando+Ideias+em+Codigo;Mobile,+Web+e+Backend" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Desenvolvedora+Fullstack;Transformando+Ideias+em+Codigo;Mobile,+Web+e+Backend" alt="Typing SVG" />
   </a>
+  
+  <br>
+  
+  <!-- Bio Centralizada -->
+  <p>
+    <b>Desenvolvedora de Software</b> apaixonada por criar soluções completas.<br> 
+    Da arquitetura do banco de dados à tela do celular, transformo problemas complexos em sistemas eficientes.
+  </p>
+  
+  <br>
+
+  <!-- Grid de Destaques Simétrico -->
+  <table align="center" width="80%">
+    <tr>
+      <td align="center" width="33%">
+        🚀<br><b>Construindo</b><br>Sites e Aplicativos
+      </td>
+      <td align="center" width="33%">
+        🧠<br><b>Especialidade</b><br>APIs & Interfaces Dinâmicas
+      </td>
+      <td align="center" width="33%">
+        ☕<br><b>Mindset</b><br>Código Limpo e Inovação
+      </td>
+    </tr>
+  </table>
+  
+  <br><br>
+
+  <!-- Arsenal Tecnológico -->
+  <h3>🛠️ Arsenal Tecnológico</h3>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,js,ts,html,css,react,nodejs,docker,postgres,mysql,git,github,linux,bash&theme=dark&perline=8" />
+  </a>
+  
 </div>
 
-<br/>
-
-## 👩🏽‍💻 Sobre Mim
-Desenvolvedora de Software apaixonada por criar soluções completas, desde a arquitetura do banco de dados até a experiência final do usuário na tela do celular ou computador. Adoro transformar problemas complexos em sistemas dinâmicos e eficientes.
-
-- 🚀 Desenvolvendo ativamente a **Plataforma Maricá**, **Sistemas de Etiquetas** e o **Projeto Somar**.
-- 🧠 Experiência em desenvolvimento Mobile e Web, construindo APIs robustas.
-- ☕ Focada em código limpo, inovação e movida a muito café.
+<br><br>
 
 ---
 
-## 🛠️ Meu Arsenal Tecnológico
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <!-- Adicionei Node, TypeScript, React (para Native/Expo), Bancos de Dados e tudo o que usamos! -->
-    <img src="https://skillicons.dev/icons?i=py,django,js,ts,html,css,react,nodejs,docker,postgres,mysql,git,github,linux,bash&theme=dark&perline=8" />
-  </a>
-</div>
-
-<br/>
 
 ---
 
