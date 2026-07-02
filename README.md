@@ -80,10 +80,10 @@
 
 <div align="center">
   <!-- Não esqueça de colocar seu e-mail e linkedin nos links abaixo! -->
-  <a href="mailto:seu.email.aqui@gmail.com">
+  <a href="mailto:julianamiilleroliveira@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/seu-perfil-aqui">
+  <a href="https://www.linkedin.com/in/julianaamiiller/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
