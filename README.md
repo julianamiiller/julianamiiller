@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou a Juliana Miiller! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="25px"></h1>
+  <h1>Olá, eu sou a Juliana Miiller!  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="25px"></h1>
   
   <!-- Animação combinando com o tema Omni -->
   <a href="https://git.io/typing-svg">
