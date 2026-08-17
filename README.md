@@ -66,10 +66,10 @@
 
 <div align="center">
   <!-- Stats Card (Agora com line_height=28 para esticar e igualar a altura do da direita!) -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=julianamiiller&show_icons=true&theme=omni&hide_border=true&line_height=28" width="48%" />
+  <img src="https://github-readme-stats-six-tawny-73.vercel.app/api?username=julianamiiller&show_icons=true&theme=omni&hide_border=true&line_height=28&count_private=true&v=2" width="48%" />
   
   <!-- Linguagens Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=julianamiiller&layout=compact&theme=omni&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-six-tawny-73.vercel.app/api/top-langs/?username=julianamiiller&layout=compact&theme=omni&hide_border=true&v=2" width="48%"  />
 </div>
 
 <br/>
